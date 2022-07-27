@@ -2,4 +2,5 @@ import Functions
 
 Name = input("Name : ")
 
-print(Name)
+Surname = input("Surname : ")
+print(f'{Surname} + {Name}')
