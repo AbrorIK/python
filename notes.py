@@ -2,5 +2,6 @@ import Functions
 
 Name = input("Name : ")
 
-Surname = input("Surname : ")
-print(f'{Surname} + {Name}')
+Second_Name = input("Second_Name : ")
+
+print(f'{Second_Name} + {Name}')
